@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+langchain-text-splitters
+sentence-transformers
+faiss-cpu==1
+llama-cpp-python
+python-dotenv
+pandas
+SQLAlchemy
+loguru
+requests
